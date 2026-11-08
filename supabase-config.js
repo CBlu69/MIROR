@@ -6,6 +6,6 @@
   NEVER put a service_role/secret key here.
 */
 window.MIRROR_SUPABASE_CONFIG = {
-  url: "YOUR_SUPABASE_PROJECT_URL",
-  anonKey: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY"
+  url: "https://ziejfrvvsxizoxlmftpo.supabase.co",
+  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InppZWpmcnZ2c3hpem94bG1mdHBvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQxMjQ4OTcsImV4cCI6MjEwOTcwMDg5N30.u1SnE1znmsncBnWBZEaS07dp7URwJHlr0u6S7tSJvJI"
 };
